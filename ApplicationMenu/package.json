@@ -10,7 +10,7 @@
     "author": "muhamedsalih",
     "license": "ISC",
     "dependencies": {
-        "electron": "^1.8.2",
+        "electron": "^15.5.5",
         "url": "^0.11.0"
     }
 }
